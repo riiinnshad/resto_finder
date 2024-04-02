@@ -1,0 +1,6 @@
+package com.example.resto_finder
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
